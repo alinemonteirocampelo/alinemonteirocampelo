@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Main_Focus-Data_&_IA-black?style=flat-square&color=E8E8E8&logoColor=black" alt="Foco" />
 </p>
 
-### 📚 Sobre mim
+### 📚 Sobre Mim
 * 🎓 Estudante do *Ensino Médio* no SESI 
 * 💻 Cursando *Técnico de Desenvolvimento de Sistemas* no SENAI 
 * 🗣️ Curso de *Inglês* em andamento
