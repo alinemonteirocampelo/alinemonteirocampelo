@@ -52,7 +52,7 @@
   <a href="mailto:aline.campelo.monteiro@gmail.com">
     <img src="https://img.shields.io/badge/Email-F4F4F4?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/aline-monteiro-43b6673b0/">
+  <a href="https://www.linkedin.com/in/alinemonteirocampelo/">
     <img src="https://img.shields.io/badge/LinkedIn-F4F4F4?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>
